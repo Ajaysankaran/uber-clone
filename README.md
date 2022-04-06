@@ -35,7 +35,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ### Environment Configuration
 Create a file called `.env.local` and add the below configurations with the appropriate values
-`NEXT_PUBLIC_MAPBOX_ACCESSTOKEN=<<accesstoken>>
+```
+NEXT_PUBLIC_MAPBOX_ACCESSTOKEN=<<accesstoken>>
 NEXT_PUBLIC_FIREBASE_APIKEY=<<firebase api key>>
 NEXT_PUBLIC_FIREBASE_APPID=<<firebase app id>>
-NEXT_PUBLIC_FIREBASE_SENDERID=<<firebase sender id>>`
+NEXT_PUBLIC_FIREBASE_SENDERID=<<firebase sender id>>
+```
